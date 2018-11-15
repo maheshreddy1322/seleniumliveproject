@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test is sucess CustomerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'><img src='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Test is sucess CustomerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'><img src='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59327" started-at="2018-11-14T02:56:14Z" finished-at="2018-11-14T02:57:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59327" started-at="2018-11-14T02:56:14Z" finished-at="2018-11-14T02:57:13Z">
+      <class name="com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration@59717824]" name="beforeTest" is-config="true" duration-ms="22230" started-at="2018-11-14T02:56:14Z" finished-at="2018-11-14T02:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration@59717824]" name="startReport" is-config="true" duration-ms="17" started-at="2018-11-14T02:56:36Z" finished-at="2018-11-14T02:56:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration.CustomerRegistration() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="CustomerRegistration()[pri:0, instance:com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration@59717824]" name="CustomerRegistration" duration-ms="35111" started-at="2018-11-14T02:56:36Z" finished-at="2018-11-14T02:57:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test is sucess CustomerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'><img src='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[Test is sucess CustomerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'><img src='D:\Users\seleniumliveproject\ecommerce\src\main\java\com\durgasoft\selenium\ecommerce\PassedScreens\CustomerRegistration-14_11_2018_08_27_11.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CustomerRegistration -->
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration@59717824]" name="endReport" is-config="true" duration-ms="1" started-at="2018-11-14T02:57:12Z" finished-at="2018-11-14T02:57:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CustomerRegistration status=SUCCESS method=TC001_CustomerRegistration.CustomerRegistration()[pri:0, instance:com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration@59717824] output=Test is sucess CustomerRegistration]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration@59717824]" name="afterTest" is-config="true" duration-ms="1425" started-at="2018-11-14T02:57:12Z" finished-at="2018-11-14T02:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

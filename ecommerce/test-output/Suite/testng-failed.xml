@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.durgasoft.selenium.ecommerce.Listeners.Listeners"/>
+    <listener class-name="com.durgasoft.selenium.ecommerce.Listeners.Retry1"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration">
+        <methods>
+          <include name="CustomerRegistration"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.durgasoft.selenium.ecommerce.HomePage.TC001_CustomerRegistration -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
